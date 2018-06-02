@@ -1,0 +1,41 @@
+/* add your CSS here */
+body {
+     text-align: left;
+}
+
+.card {
+    width: 300px;
+    border: 1px solid gray;
+    padding: 10px;
+    box-shadow: 8px 8px rgba(153,153,153,0.2);
+}
+
+.name {
+    text-align: left;
+}
+
+.img {
+    width: 300px;
+}
+
+.animal-background {
+     border: 1px solid gray;
+     padding: 10px;
+}
+
+.interesting-fact {
+    Font-style: italic;
+}
+
+span {
+    font-weight: bold;
+}
+
+.list {
+    list-style: none;
+    padding-left: 0px;
+}
+
+li {
+    text-align: left;
+}
